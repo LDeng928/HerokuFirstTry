@@ -3,6 +3,7 @@
 1. Clone repo to your local development environment
 2. The first time run `npm install`
 3. Then run `npm start`
+4. Deploy on Heroku, run `heroku open` and a new browser page will appear.
 
 Student name: Li Deng
 
