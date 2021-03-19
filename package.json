@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/rhildred/es6test#readme",
   "dependencies": {
+    "cool-ascii-faces": "^1.3.4",
     "engine.io": "*",
     "express": "*",
     "socket.io": "*",
